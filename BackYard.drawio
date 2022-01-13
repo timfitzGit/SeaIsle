@@ -1,8 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T22:53:50.383Z" agent="5.0 (Windows)" etag="lHSH5Fny7xrGNJ5JKMWU" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T00:55:41.785Z" agent="5.0 (Windows)" etag="Hvdq5uDUqUeRNdFn8amM" version="16.2.6" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="2445" dy="-17" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3118" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
+        <object label="Gear to Store" id="Kb_KIcMxS6iBpeMSpJnd-6">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-38" value="Jet SKi&lt;br&gt;&lt;br&gt;~10ft x 4ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;gradientDirection=west;rotation=0;" parent="Kb_KIcMxS6iBpeMSpJnd-6" vertex="1">
+          <mxGeometry x="1997" y="1590" width="160" height="400" as="geometry" />
+        </mxCell>
+        <object label="Hardscape" id="Kb_KIcMxS6iBpeMSpJnd-8">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-9" value="Pavers&lt;br&gt;11 x 6 ft" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;gradientDirection=west;verticalAlign=bottom;strokeColor=#d79b00;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-8">
+          <mxGeometry x="1077" y="1375" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-32" value="&lt;font color=&quot;#000000&quot;&gt;Ramp&lt;br&gt;2ft x 3ft&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;fillColor=#9999FF;gradientColor=none;gradientDirection=west;strokeColor=#FFFFFF;" parent="Kb_KIcMxS6iBpeMSpJnd-8" vertex="1">
+          <mxGeometry x="1307" y="1110" width="80" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="1" parent="0" />
         <mxCell id="47l2vDxDsdCU6jmRX7GS-13" value="Deck&lt;br&gt;18ft x 12 ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#CCCCCC;gradientDirection=west;verticalAlign=top;align=right;spacingRight=31;" parent="1" vertex="1">
           <mxGeometry x="1029" y="1540" width="720" height="480" as="geometry" />
@@ -37,15 +52,6 @@
         <mxCell id="47l2vDxDsdCU6jmRX7GS-16" value="Walk way&lt;br&gt;~4ft x 16ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#CCCCCC;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="1047" y="1700" width="679" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-17" value="A frame&lt;br&gt;&amp;nbsp;&lt;br&gt;8ft x 8ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2184" y="1361" width="320" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-18" value="Carriage&lt;br&gt;8ft x 8ft&lt;br&gt;&lt;br&gt;7ft footprint" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;rotation=0;textDirection=ltr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2184" y="1070" width="320" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-19" value="A frame&lt;br&gt;8ft x 6ft&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;rotation=-90;textDirection=ltr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1027" y="1090" width="320" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="47l2vDxDsdCU6jmRX7GS-22" value="13 ft" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;strokeWidth=4;strokeColor=#FF3333;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="968" y="1542" as="sourcePoint" />
@@ -58,27 +64,6 @@
             <mxPoint x="797" y="1020.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-29" value="Pavers&lt;br&gt;11 x 6 ft" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;gradientDirection=west;verticalAlign=bottom;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1077" y="1375" width="440" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-26" value="Table&lt;br&gt;4ft diameter" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1397" y="1290" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-27" value="&lt;span&gt;Chair&lt;/span&gt;&lt;br&gt;&lt;span&gt;2ftx2ft&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1427" y="1460" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-28" value="Chair&lt;br&gt;2ftx2ft" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1307" y="1410" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-31" value="9 inches" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;strokeWidth=6;strokeColor=#FF3333;fontColor=#000000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1197" y="1038" as="sourcePoint" />
-            <mxPoint x="1197" y="1008.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-32" value="&lt;font color=&quot;#000000&quot;&gt;Ramp&lt;br&gt;2ft x 3ft&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;fillColor=#9999FF;gradientColor=none;gradientDirection=west;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1307" y="1110" width="80" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="47l2vDxDsdCU6jmRX7GS-35" value="" style="endArrow=block;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#FF3333;strokeWidth=6;startArrow=block;startFill=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="950" as="sourcePoint" />
@@ -90,14 +75,53 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-38" value="Jet SKi&lt;br&gt;&lt;br&gt;~10ft x 4ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;gradientDirection=west;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1997" y="1590" width="160" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="Kb_KIcMxS6iBpeMSpJnd-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1050" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kb_KIcMxS6iBpeMSpJnd-4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1085" width="50" height="10" as="geometry" />
+        </mxCell>
+        <object label="Furniture " id="Kb_KIcMxS6iBpeMSpJnd-5">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-28" value="Chair&lt;br&gt;2ftx2ft" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="Kb_KIcMxS6iBpeMSpJnd-5" vertex="1">
+          <mxGeometry x="1307" y="1410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-27" value="&lt;span&gt;Chair&lt;/span&gt;&lt;br&gt;&lt;span&gt;2ftx2ft&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="Kb_KIcMxS6iBpeMSpJnd-5" vertex="1">
+          <mxGeometry x="1427" y="1460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-26" value="Table&lt;br&gt;4ft diameter" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;gradientDirection=west;strokeColor=#82b366;" parent="Kb_KIcMxS6iBpeMSpJnd-5" vertex="1">
+          <mxGeometry x="1397" y="1290" width="160" height="160" as="geometry" />
+        </mxCell>
+        <object label="Shed" id="Kb_KIcMxS6iBpeMSpJnd-7">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-17" value="A frame&lt;br&gt;&amp;nbsp;&lt;br&gt;8ft x 8ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Kb_KIcMxS6iBpeMSpJnd-7" vertex="1">
+          <mxGeometry x="2184" y="1361" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-18" value="Carriage&lt;br&gt;8ft x 8ft&lt;br&gt;&lt;br&gt;7ft footprint" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;rotation=0;textDirection=ltr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Kb_KIcMxS6iBpeMSpJnd-7" vertex="1">
+          <mxGeometry x="2184" y="1070" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-19" value="A frame&lt;br&gt;8ft x 6ft&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#7ea6e0;gradientDirection=west;rotation=-90;textDirection=ltr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Kb_KIcMxS6iBpeMSpJnd-7" vertex="1">
+          <mxGeometry x="1027" y="1090" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-31" value="9 inches" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;strokeWidth=6;strokeColor=#FF3333;fontColor=#000000;" parent="Kb_KIcMxS6iBpeMSpJnd-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1197" y="1038" as="sourcePoint" />
+            <mxPoint x="1197" y="1008.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Expansion area" id="Kb_KIcMxS6iBpeMSpJnd-12">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-13" value="&lt;div&gt;Hot Tub&lt;/div&gt;&lt;div&gt;large 7+ people&lt;/div&gt;&lt;div&gt;7 x 8 ft&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+          <mxGeometry x="1540" y="1220" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-15" value="&lt;div&gt;Open&amp;nbsp; Space&lt;/div&gt;&lt;div&gt;16 x 11 ft&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+          <mxGeometry x="1910" y="1100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=21;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingRight=15;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+          <mxGeometry x="1430" y="1050" width="670" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
