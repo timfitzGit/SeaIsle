@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T00:55:41.785Z" agent="5.0 (Windows)" etag="Hvdq5uDUqUeRNdFn8amM" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T00:56:11.494Z" agent="5.0 (Windows)" etag="z6bnE6H6g2otsjAuXxjJ" version="16.2.6" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="3118" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -114,14 +114,14 @@
         <object label="Expansion area" id="Kb_KIcMxS6iBpeMSpJnd-12">
           <mxCell parent="0" />
         </object>
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=21;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingRight=15;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+          <mxGeometry x="1430" y="1050" width="670" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="Kb_KIcMxS6iBpeMSpJnd-13" value="&lt;div&gt;Hot Tub&lt;/div&gt;&lt;div&gt;large 7+ people&lt;/div&gt;&lt;div&gt;7 x 8 ft&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
           <mxGeometry x="1540" y="1220" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Kb_KIcMxS6iBpeMSpJnd-15" value="&lt;div&gt;Open&amp;nbsp; Space&lt;/div&gt;&lt;div&gt;16 x 11 ft&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
           <mxGeometry x="1910" y="1100" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=21;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingRight=15;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
-          <mxGeometry x="1430" y="1050" width="670" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
