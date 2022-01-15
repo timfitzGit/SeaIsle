@@ -1,18 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T00:56:11.494Z" agent="5.0 (Windows)" etag="z6bnE6H6g2otsjAuXxjJ" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T13:17:14.799Z" agent="5.0 (Windows)" etag="6gCKxpLA44WRHP7U1nEE" version="16.2.7" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="3118" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3455" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <object label="Gear to Store" id="Kb_KIcMxS6iBpeMSpJnd-6">
-          <mxCell parent="0" />
-        </object>
-        <mxCell id="47l2vDxDsdCU6jmRX7GS-38" value="Jet SKi&lt;br&gt;&lt;br&gt;~10ft x 4ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;gradientDirection=west;rotation=0;" parent="Kb_KIcMxS6iBpeMSpJnd-6" vertex="1">
-          <mxGeometry x="1997" y="1590" width="160" height="400" as="geometry" />
-        </mxCell>
         <object label="Hardscape" id="Kb_KIcMxS6iBpeMSpJnd-8">
           <mxCell parent="0" />
         </object>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-9" value="Pavers&lt;br&gt;11 x 6 ft" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;gradientDirection=west;verticalAlign=bottom;strokeColor=#d79b00;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-8">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-9" value="Pavers&lt;br&gt;11 x 6 ft" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;gradientDirection=west;verticalAlign=bottom;strokeColor=#d79b00;" parent="Kb_KIcMxS6iBpeMSpJnd-8" vertex="1">
           <mxGeometry x="1077" y="1375" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="47l2vDxDsdCU6jmRX7GS-32" value="&lt;font color=&quot;#000000&quot;&gt;Ramp&lt;br&gt;2ft x 3ft&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;fillColor=#9999FF;gradientColor=none;gradientDirection=west;strokeColor=#FFFFFF;" parent="Kb_KIcMxS6iBpeMSpJnd-8" vertex="1">
@@ -75,11 +69,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1050" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-4" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1085" width="50" height="10" as="geometry" />
+        </mxCell>
+        <object label="Gear to Store" id="Kb_KIcMxS6iBpeMSpJnd-6">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="47l2vDxDsdCU6jmRX7GS-38" value="Jet SKi&lt;br&gt;&lt;br&gt;~10ft x 4ft" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#B09500;fillColor=#e3c800;gradientDirection=west;rotation=0;" parent="Kb_KIcMxS6iBpeMSpJnd-6" vertex="1">
+          <mxGeometry x="1997" y="1590" width="160" height="400" as="geometry" />
         </mxCell>
         <object label="Furniture " id="Kb_KIcMxS6iBpeMSpJnd-5">
           <mxCell parent="0" />
@@ -112,15 +112,15 @@
           </mxGeometry>
         </mxCell>
         <object label="Expansion area" id="Kb_KIcMxS6iBpeMSpJnd-12">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=21;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingRight=15;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=21;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingRight=15;" parent="Kb_KIcMxS6iBpeMSpJnd-12" vertex="1">
           <mxGeometry x="1430" y="1050" width="670" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-13" value="&lt;div&gt;Hot Tub&lt;/div&gt;&lt;div&gt;large 7+ people&lt;/div&gt;&lt;div&gt;7 x 8 ft&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-13" value="&lt;div&gt;Hot Tub&lt;/div&gt;&lt;div&gt;large 7+ people&lt;/div&gt;&lt;div&gt;7 x 8 ft&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontColor=#000000;" parent="Kb_KIcMxS6iBpeMSpJnd-12" vertex="1">
           <mxGeometry x="1540" y="1220" width="320" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-15" value="&lt;div&gt;Open&amp;nbsp; Space&lt;/div&gt;&lt;div&gt;16 x 11 ft&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" vertex="1" parent="Kb_KIcMxS6iBpeMSpJnd-12">
+        <mxCell id="Kb_KIcMxS6iBpeMSpJnd-15" value="&lt;div&gt;Open&amp;nbsp; Space&lt;/div&gt;&lt;div&gt;16 x 11 ft&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" parent="Kb_KIcMxS6iBpeMSpJnd-12" vertex="1">
           <mxGeometry x="1910" y="1100" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
