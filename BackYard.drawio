@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T13:17:14.799Z" agent="5.0 (Windows)" etag="6gCKxpLA44WRHP7U1nEE" version="16.2.7" type="github">
-  <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="3455" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-01-18T17:37:06.621Z" agent="5.0 (Windows)" etag="qMoHVP-PlstyfqXX0mSV" version="16.3.0" type="github" pages="2">
+  <diagram name="YardView" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
+    <mxGraphModel dx="4251" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Hardscape" id="Kb_KIcMxS6iBpeMSpJnd-8">
@@ -123,6 +123,68 @@
         <mxCell id="Kb_KIcMxS6iBpeMSpJnd-15" value="&lt;div&gt;Open&amp;nbsp; Space&lt;/div&gt;&lt;div&gt;16 x 11 ft&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" parent="Kb_KIcMxS6iBpeMSpJnd-12" vertex="1">
           <mxGeometry x="1910" y="1100" width="110" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="k0sqb4WRPH1-ZAm63MsO" name="ShedExterior">
+    <mxGraphModel dx="1103" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-0" />
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-1" parent="Ht648lXnjJ2hXoJVCMQE-0" />
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-1">
+          <mxGeometry x="80" y="280" width="640" height="500" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Scale1 box = 6 in&lt;/div&gt;" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-1">
+            <mxGeometry x="30" y="210" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="8ft wide (16 box)" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-8">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-1">
+            <mxGeometry x="330" y="250" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;6&#39; 4.5&quot;t tall (~12.5box)&lt;/div&gt;" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=-90;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-1">
+            <mxGeometry x="-50" y="470" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-19" value="" style="group" vertex="1" connectable="0" parent="Ht648lXnjJ2hXoJVCMQE-1">
+          <mxGeometry x="638" y="299" width="244.5" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-14" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-19">
+          <mxGeometry x="-117.75" y="117.75" width="480" height="244.5" as="geometry" />
+        </mxCell>
+        <UserObject label="36&quot; wide (6 box)" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-15">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-19">
+            <mxGeometry x="5" y="26" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-20" value="" style="group" vertex="1" connectable="0" parent="Ht648lXnjJ2hXoJVCMQE-1">
+          <mxGeometry x="400" y="299" width="201" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-12" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-20">
+          <mxGeometry x="-139.5" y="139.5" width="480" height="201" as="geometry" />
+        </mxCell>
+        <UserObject label="30&quot; wide (5 box)" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-13">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-20">
+            <mxGeometry x="5" y="21" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-21" value="" style="group" vertex="1" connectable="0" parent="Ht648lXnjJ2hXoJVCMQE-1">
+          <mxGeometry x="165" y="299" width="180" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Ht648lXnjJ2hXoJVCMQE-10" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-21">
+          <mxGeometry x="-150" y="150" width="480" height="180" as="geometry" />
+        </mxCell>
+        <UserObject label="27&quot; wide (~4.5 box)" placeholders="1" name="Variable" id="Ht648lXnjJ2hXoJVCMQE-11">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="Ht648lXnjJ2hXoJVCMQE-21">
+            <mxGeometry x="5" y="11" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="Front Doors" id="Ht648lXnjJ2hXoJVCMQE-18">
+          <mxCell parent="Ht648lXnjJ2hXoJVCMQE-0" />
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
